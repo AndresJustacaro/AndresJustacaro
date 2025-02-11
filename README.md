@@ -1,7 +1,6 @@
 ![Hacker](https://img.shields.io/badge/-Hacker-000?style=for-the-badge&logo=linux)
 ![Blockchain Dev](https://img.shields.io/badge/-Blockchain-4B0082?style=for-the-badge&logo=ethereum)
 
-Resultado:  
 ```diff
 + HACKER MODE ACTIVATED
 ```
