@@ -1,6 +1,11 @@
 ![Hacker](https://img.shields.io/badge/-Hacker-000?style=for-the-badge&logo=linux)
 ![Blockchain Dev](https://img.shields.io/badge/-Blockchain-4B0082?style=for-the-badge&logo=ethereum)
 
+Resultado:  
+```diff
++ HACKER MODE ACTIVATED
+```
+
 ```css
 Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 ```
@@ -18,11 +23,6 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 > Accessing Secure Files...
 █████████ 100%
 > Welcome to my GitHub profile!
-
-🔹 **Especialidad:** 🔥 Seguridad Informática | 🚀 Blockchain | 🎯 Pentesting  
-🔹 **Lenguajes:** 🐍 Python | 💻 Bash | ⚙️ Solidity  
-🔹 **Proyectos:** 👻 GhostLayer | 💰 Vortex Investments  
-
 
 ```diff
  + 🚀 Welcome to my hacking zone...
