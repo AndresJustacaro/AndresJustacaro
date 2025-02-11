@@ -11,10 +11,6 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝     ╚════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 ``` 
                                                                                                                                 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
-</p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
