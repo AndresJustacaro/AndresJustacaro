@@ -1,8 +1,8 @@
-name: 📡 Update IP Info
+name: 📡 Actualización de Datos del Sistema
 
 on:
   schedule:
-    - cron: "0 * * * *" # Ejecutar cada hora
+    - cron: "0 * * * *" # Se ejecuta cada hora
   workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
@@ -12,19 +12,15 @@ jobs:
       - name: 📥 Clonar repositorio
         uses: actions/checkout@v3
 
-      - name: 🌐 Obtener y actualizar IP
+      - name: 🖥️ Ejecutar script de actualización
         run: |
           chmod +x update_readme.sh
           ./update_readme.sh
 
-            - name: 🚀 Subir cambios
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 🚀 Subir cambios
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git pull origin main --rebase || git reset --hard origin/main
+          git config --global user.name "GitHub Bot"
+          git config --global user.email "bot@users.noreply.github.com"
           git add README.md
-          git commit -m "🔄 Actualización automática" || exit 0
-          git push origin main
+          git commit -m "⚡ Actualización automática de datos del sistema" || exit 0
+          git push
