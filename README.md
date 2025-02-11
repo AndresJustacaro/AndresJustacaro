@@ -8,7 +8,7 @@
                                                                                                                                 
  
 
-![Banner de mi perfil](https://raw.githubusercontent.com/AndresJustacaro/AndresJustacaro/main/StyleHack.png)
+![Banner de mi perfil](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png?raw=true)
 
 
 
