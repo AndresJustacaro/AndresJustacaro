@@ -19,6 +19,10 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 █████████ 100%
 > Welcome to my GitHub profile!
 
++ 🚨 INTRUSIÓN DETECTADA: ACTIVANDO PROTOCOLO 🔥
+- ACCESO DENEGADO: 🚫 IP BLOQUEADA
+
+
 ```diff
  + 🚀 Welcome to my hacking zone...
 - Unauthorized access will be logged!
