@@ -101,4 +101,5 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndresJustacaro&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2315F7F3&size=24&center=true&vCenter=true&width=600&lines=🚀+Ciberseguridad+%7C+Blockchain+%7C+Pentesting;🔥+Hack+the+Future!)](https://github.com/AndresJustacaro)
 
