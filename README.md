@@ -8,9 +8,8 @@
                                                                                                                                 
  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png?raw=true" alt="Banner de mi perfil" width="100%">
-</p> 
+![Banner de mi perfil](https://raw.githubusercontent.com/AndresJustacaro/AndresJustacaro/main/StyleHack.png)
+
 
 
 
