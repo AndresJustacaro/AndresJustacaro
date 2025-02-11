@@ -47,7 +47,6 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
-"🔓 
 
 ## 🔐 Encrypted Reality: El Código Secreto  
 Escanea este código y descubre la verdad...  
