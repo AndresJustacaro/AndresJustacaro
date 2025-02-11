@@ -20,9 +20,6 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
  + 🚀 Welcome to my hacking zone...
 - Unauthorized access will be logged!
 ```
-<!-- SYSTEM INFO START -->
-🔄 Cargando datos del sistema...
-<!-- SYSTEM INFO END -->
 
 
 <p align="center">
@@ -96,4 +93,7 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 📡 **Intento de Acceso:** `3 Fallidos`  
 ⚠️ **Status:** `Tracking in progress...`  
 🔒 **Defensive Countermeasures: Active`**  
+<!-- SYSTEM INFO START -->
+🔄 Cargando datos del sistema...
+<!-- SYSTEM INFO END -->
 
