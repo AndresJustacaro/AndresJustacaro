@@ -17,13 +17,14 @@ jobs:
           chmod +x update_readme.sh
           ./update_readme.sh
 
-      - name: 🚀 Subir cambios
+            - name: 🚀 Subir cambios
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase
+          
+          git pull origin main --rebase || git reset --hard origin/main
           git add README.md
-          git commit -m "🔄 Actualización de IP Pública" || echo "Sin cambios que realizar"
-          git push origin main || (git pull origin main --rebase && git push origin main)
+          git commit -m "🔄 Actualización automática" || exit 0
+          git push origin main
