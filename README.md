@@ -13,11 +13,8 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
                                                                                                                                 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=AndresJustacaro&label=ACCESS+LOGS&color=green&style=flat-square" />
 </p>
-
-
-
 
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
