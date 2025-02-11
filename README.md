@@ -24,6 +24,9 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
  + 🚀 Welcome to my hacking zone...
 - Unauthorized access will be logged!
 ```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=50&lines=👾+WELCOME+TO+MY+WORLD;🔥+HACKING+IS+AN+ART;💀+NO+SYSTEM+IS+SAFE" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
