@@ -10,7 +10,7 @@
 
 ## 🌎 Conéctate conmigo  
 📌 **GitHub:** [AndresJustacaro](https://github.com/AndresJustacaro)  
-📌 **Twitter:** [@TuUsuario](https://twitter.com/AndresJustacaro)  
+📌 **Twitter:** [@AndresJustacaro](https://twitter.com/AndresJustacaro)  
 📌 **LinkedIn:** [Andres Justacaro](https://www.linkedin.com/in/AndresJustacaro)  
 
 💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
