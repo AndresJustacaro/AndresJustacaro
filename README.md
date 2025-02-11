@@ -17,7 +17,9 @@
 █████████ 100%
 > Welcome to my GitHub profile!
 
-+ 🚨 INTRUSIÓN DETECTADA: ACTIVANDO PROTOCOLO 🔥
++ ```diff
+  🚨 INTRUSIÓN DETECTADA: ACTIVANDO PROTOCOLO 🔥
+  ```
 - ACCESO DENEGADO: 🚫 IP BLOQUEADA
 
 ```css
