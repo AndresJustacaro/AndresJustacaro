@@ -19,8 +19,6 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 █████████ 100%
 > Welcome to my GitHub profile!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AndresJustacaro&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ```diff
  + 🚀 Welcome to my hacking zone...
@@ -100,4 +98,7 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 <!-- SYSTEM INFO START -->
 🔄 Cargando datos del sistema...
 <!-- SYSTEM INFO END -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndresJustacaro&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
