@@ -15,7 +15,12 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 > Accessing Secure Files...
 █████████ 100%
 > Welcome to my GitHub profile!  
-                                                                                                                                
+
+```diff
+ + 🚀 Welcome to my hacking zone...
+- Unauthorized access will be logged!
+```
+                                                                                                                            
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresJustacaro&label=ACCESS+LOGS&color=green&style=flat-square" />
