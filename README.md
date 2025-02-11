@@ -14,7 +14,11 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 █████████ 100%
 > Accessing Secure Files...
 █████████ 100%
-> Welcome to my GitHub profile!  
+> Welcome to my GitHub profile!
+
+![Hacker](https://img.shields.io/badge/-Hacker-000?style=for-the-badge&logo=linux)
+![Blockchain Dev](https://img.shields.io/badge/-Blockchain-4B0082?style=for-the-badge&logo=ethereum)
+
 
 ```diff
  + 🚀 Welcome to my hacking zone...
@@ -31,11 +35,6 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
 </p>
-
-![Hacker](https://img.shields.io/badge/-Hacker-000?style=for-the-badge&logo=linux)
-![Blockchain Dev](https://img.shields.io/badge/-Blockchain-4B0082?style=for-the-badge&logo=ethereum)
-
-
 
 
 # 💻 Andres Justacaro  
