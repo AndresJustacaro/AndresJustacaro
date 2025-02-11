@@ -1,6 +1,10 @@
 🟢 **HACKER MODE ACTIVATED**  
 🔴 ACCESO DENEGADO  
 
+```css
+Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
+
+
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
 
