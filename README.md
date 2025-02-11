@@ -20,7 +20,12 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
  + 🚀 Welcome to my hacking zone...
 - Unauthorized access will be logged!
 ```
-![3D Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU-USUARIO&theme=radical)
+🚨 **ALERTA: INTRUSO DETECTADO** 🚨  
+📍 **Ubicación:** 🌎 `Desconocida`  
+📡 **Intento de Acceso:** `3 Fallidos`  
+⚠️ **Status:** `Tracking in progress...`  
+🔒 **Defensive Countermeasures: Active`**  
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresJustacaro&label=ACCESS+LOGS&color=green&style=flat-square" />
