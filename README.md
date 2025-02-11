@@ -6,12 +6,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsXGxH8LcBPLGdO/giphy.gif" width="80%">
-</p>
-
-
-
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
 
