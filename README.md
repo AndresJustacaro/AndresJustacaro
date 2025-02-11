@@ -4,6 +4,9 @@
 ```diff
 + HACKER MODE ACTIVATED
 ```
+```bash
+root@GhostLayer:~# ./execute_payload.sh
+```
 
 ```css
 Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
