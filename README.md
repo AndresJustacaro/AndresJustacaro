@@ -15,7 +15,7 @@ Mi enfoque principal es el **hacking ético, análisis de vulnerabilidades, pent
 - 📊 Creación de **Vortex Investments**, una plataforma de educación financiera y análisis de inversiones.  
 
 📫 **Contáctame:**  
-- 🌍 [Reddi](thttps://reddit.com/AndresJustacaro)]  
+- 🌍 [Reddit](thttps://reddit.com/AndresJustacaro)]  
 - 📩 [Correo](andresjustacaro1992@outlook.com)]  
 - 🐦 [Twitter](https://twitter.com/AndresJustacaro) | 🔗 [LinkedIn](https://linkedin.com/in/AndresJutacaro)  
 
