@@ -1,6 +1,5 @@
-```diff
-+ HACKER MODE ACTIVATED  
-- ACCESO DENEGADO  
+🟢 **HACKER MODE ACTIVATED**  
+🔴 ACCESO DENEGADO  
 
 
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
