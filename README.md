@@ -56,6 +56,9 @@ Escanea este código y descubre la verdad...
   <img src="https://github.com/AndresJustacaro/AndresJustacaro/raw/main/encrypted_reality_qr.png" width="250px">
 </p>
 
++ 🚨 INTRUSIÓN DETECTADA: ACTIVANDO PROTOCOLO 🔥  
+- 🔓 ACCESO CONCEDIDO... DESCARGANDO ARCHIVOS CLASIFICADOS...  
+! 🛡️ FIREWALL BYPASSED. SECUENCIA INICIADA...  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
