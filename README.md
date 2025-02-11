@@ -19,9 +19,7 @@
 
 + ```diff
   🚨 INTRUSIÓN DETECTADA: ACTIVANDO PROTOCOLO 🔥
-  ```
-
- ACCESO DENEGADO: 🚫 IP BLOQUEADA
+  ``` ACCESO DENEGADO: 🚫 IP BLOQUEADA
 
 ```css
 Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
