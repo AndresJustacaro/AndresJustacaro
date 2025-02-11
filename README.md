@@ -20,7 +20,9 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
  + 🚀 Welcome to my hacking zone...
 - Unauthorized access will be logged!
 ```
-                                                                                                                            
+
+![Parcero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresJustacaro&label=ACCESS+LOGS&color=green&style=flat-square" />
