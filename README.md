@@ -1,7 +1,9 @@
 🟢 **HACKER MODE ACTIVATED**  
 🔴 ACCESO DENEGADO  
 
-[![Typing SVG](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VsN3Y4ejlvcGI0dTk0dTY4bzJ4MjJiNHdnc2l5cHNiYTQzbnJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif)](https://github.com/AndresJustacaro)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VsN3Y4ejlvcGI0dTk0dTY4bzJ4MjJiNHdnc2l5cHNiYTQzbnJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width="100%">
+</p>
 
 
 <p align="center">
