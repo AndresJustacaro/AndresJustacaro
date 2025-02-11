@@ -19,7 +19,7 @@
 
 + ```diff
   🚨 INTRUSIÓN DETECTADA: ACTIVANDO PROTOCOLO 🔥
-  ```
+ ```
 - ACCESO DENEGADO: 🚫 IP BLOQUEADA
 
 ```css
