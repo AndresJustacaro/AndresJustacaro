@@ -20,11 +20,6 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
  + 🚀 Welcome to my hacking zone...
 - Unauthorized access will be logged!
 ```
-🚨 **ALERTA: INTRUSO DETECTADO** 🚨  
-📍 **Ubicación:** 🌎 `Desconocida`  
-📡 **Intento de Acceso:** `3 Fallidos`  
-⚠️ **Status:** `Tracking in progress...`  
-🔒 **Defensive Countermeasures: Active`**  
 
 
 <p align="center">
@@ -92,4 +87,10 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 📌 **LinkedIn:** [Andres Justacaro](https://www.linkedin.com/in/AndresJustacaro)  
 
 💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
+
+🚨 **ALERTA: INTRUSO DETECTADO** 🚨  
+📍 **Ubicación:** 🌎 `Desconocida`  
+📡 **Intento de Acceso:** `3 Fallidos`  
+⚠️ **Status:** `Tracking in progress...`  
+🔒 **Defensive Countermeasures: Active`**  
 
