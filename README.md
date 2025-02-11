@@ -3,6 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F0&lines=HACKER+MODE+ACTIVATED;Cybersecurity+Specialist;Blockchain+Enthusiast;Pentesting+%26+Offensive+Security)](https://github.com/AndresJustacaro)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsXGxH8LcBPLGdO/giphy.gif" width="80%">
+</p>
+
+
 
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
