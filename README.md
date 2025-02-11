@@ -1,3 +1,7 @@
+```diff
++ HACKER MODE ACTIVATED
+
+
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
 
