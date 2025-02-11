@@ -1,9 +1,9 @@
 🟢 **HACKER MODE ACTIVATED**  
 🔴 ACCESO DENEGADO  
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-hacker-image-0021.gif" width="80%">
-</p>
+```css
+Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
+```
 
 
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
