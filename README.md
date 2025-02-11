@@ -1,6 +1,10 @@
 🟢 **HACKER MODE ACTIVATED**  
 🔴 ACCESO DENEGADO  
 
+```css
+Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
+```
+
 ```bash
  █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗███████╗         ██╗██╗   ██╗███████╗████████╗ █████╗  ██████╗ █████╗ ██████╗  ██████╗ 
 ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝         ██║██║   ██║██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗
@@ -10,14 +14,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝     ╚════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 ``` 
                                                                                                                                 
-
-```css
-Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresJustacaro&label=ACCESS+LOGS&color=green&style=flat-square" />
@@ -82,3 +78,7 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 📌 **LinkedIn:** [Andres Justacaro](https://www.linkedin.com/in/AndresJustacaro)  
 
 💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
+</p>
