@@ -76,8 +76,3 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 
 💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndresJustacaro&label=ACCESS+LOGS&color=green&style=flat-square" />
-</p>
