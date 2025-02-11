@@ -19,6 +19,10 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 █████████ 100%
 > Welcome to my GitHub profile!
 
+🔹 **Especialidad:** 🔥 Seguridad Informática | 🚀 Blockchain | 🎯 Pentesting  
+🔹 **Lenguajes:** 🐍 Python | 💻 Bash | ⚙️ Solidity  
+🔹 **Proyectos:** 👻 GhostLayer | 💰 Vortex Investments  
+
 
 ```diff
  + 🚀 Welcome to my hacking zone...
