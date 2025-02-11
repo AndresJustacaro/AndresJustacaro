@@ -53,7 +53,7 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 Escanea este código y descubre la verdad...  
 
 <p align="center">
-  <img src="https://github.com/TU-USUARIO/TU-REPO/raw/main/encrypted_reality_qr.png" width="250px">
+  <img src="https://github.com/AndresJustacaro/AndresJustacaro/raw/main/encrypted_reality_qr.png" width="250px">
 </p>
 
 
