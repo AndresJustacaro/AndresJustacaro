@@ -1,9 +1,9 @@
-name: 📡 Update System Info
+name: 📡 Update IP Info
 
 on:
   schedule:
-    - cron: "0 * * * *" # Se ejecuta cada hora
-  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub Actions
+    - cron: "0 * * * *" # Ejecutar cada hora
+  workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
   update-readme:
@@ -12,24 +12,18 @@ jobs:
       - name: 📥 Clonar repositorio
         uses: actions/checkout@v3
 
-      - name: 🖥️ Ejecutar script de actualización
+      - name: 🌐 Obtener y actualizar IP
         run: |
           chmod +x update_readme.sh
           ./update_readme.sh
 
-            - name: 🚀 Subir cambios
+      - name: 🚀 Subir cambios
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Obtener los últimos cambios antes de hacer push
           git pull origin main --rebase
-
           git add README.md
-          git commit -m "⚡ Actualización automática de información del sistema" || echo "Sin cambios que realizar"
-          
-          # Forzar push solo si es necesario
+          git commit -m "🔄 Actualización de IP Pública" || echo "Sin cambios que realizar"
           git push origin main || (git pull origin main --rebase && git push origin main)
-
