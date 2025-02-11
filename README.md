@@ -1,6 +1,8 @@
 🟢 **HACKER MODE ACTIVATED**  
 🔴 ACCESO DENEGADO  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F0&lines=HACKER+MODE+ACTIVATED;Cybersecurity+Specialist;Blockchain+Enthusiast;Pentesting+%26+Offensive+Security)](https://github.com/AndresJustacaro)
+
 
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
