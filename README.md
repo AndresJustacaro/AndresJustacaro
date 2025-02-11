@@ -31,6 +31,10 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
 </p>
 
+![Hacker](https://img.shields.io/badge/-Hacker-000?style=for-the-badge&logo=linux)
+![Blockchain Dev](https://img.shields.io/badge/-Blockchain-4B0082?style=for-the-badge&logo=ethereum)
+
+
 
 
 # 💻 Andres Justacaro  
