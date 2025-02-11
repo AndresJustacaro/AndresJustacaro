@@ -17,6 +17,11 @@
 █████████ 100%
 > Welcome to my GitHub profile!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="80%">
+</p>
+
+
   🚨 INTRUSIÓN DETECTADA: ACTIVANDO PROTOCOLO 🔥
   ACCESO DENEGADO: 🚫 IP BLOQUEADA
 
