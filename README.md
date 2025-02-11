@@ -9,7 +9,7 @@
  
 
 <p align="center">
-  <img src="https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png" alt="Banner de mi perfil" width="100%">
+  <img src="https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png?raw=true" alt="Banner de mi perfil" width="100%">
 </p> 
 
 
