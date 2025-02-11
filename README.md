@@ -18,6 +18,11 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
+</p>
+
+
 
 # 💻 Andres Justacaro  
 
