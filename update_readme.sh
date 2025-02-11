@@ -1,21 +1,13 @@
 #!/bin/bash
 
-# Obtener la fecha actual
-CURRENT_DATE=$(date +"%Y-%m-%d %H:%M:%S")
+# Obtener información del sistema
+IP_PUBLICA=$(curl -s ifconfig.me)
+SISTEMA=$(uname -s)
+KERNEL=$(uname -r)
+CPU=$(lscpu | grep "Model name" | awk -F ': ' '{print $2}')
+RAM_TOTAL=$(free -m | awk '/^Mem:/{print $2}')
+RAM_USADA=$(free -m | awk '/^Mem:/{print $3}')
 
-# Obtener IP Pública (Usa un servicio externo como ifconfig.me)
-PUBLIC_IP=$(curl -s ifconfig.me)
+# Actualizar el README.md
+sed -i "/<!-- SISTEMA -->/c\🌐 **IP Pública:** $IP_PUBLICA  |  🖥️ **Sistema:** $SISTEMA  |  🧠 **CPU:** $CPU  |  💾 **RAM:** $RAM_USADA MB / $RAM_TOTAL MB" README.md
 
-# Crear el contenido del README con datos dinámicos
-cat <<EOF > README.md
-# 🔥 Perfil Hacker 🔥
-
-| 🌍 **SYSTEM STATUS** | **VALUE** |
-|----------------|----------------|
-| 🔋 **Uptime** | $(uptime -p) |
-| 📡 **Last Update** | $CURRENT_DATE |
-| 🛰 **IP Address** | $PUBLIC_IP |
-| 🛠 **Current Task** | `Pentesting...` |
-
-> ⚠️ **Este perfil se actualiza automáticamente cada 24 horas.**
-EOF
