@@ -17,13 +17,19 @@ jobs:
           chmod +x update_readme.sh
           ./update_readme.sh
 
-      - name: 🚀 Subir cambios
+            - name: 🚀 Subir cambios
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Obtener los últimos cambios antes de hacer push
+          git pull origin main --rebase
+
           git add README.md
           git commit -m "⚡ Actualización automática de información del sistema" || echo "Sin cambios que realizar"
-          git push origin main
+          
+          # Forzar push solo si es necesario
+          git push origin main || (git pull origin main --rebase && git push origin main)
 
