@@ -18,7 +18,7 @@
 > Welcome to my GitHub profile!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="80%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl4cnp2Z3FuMzYwaWphcGNxMnJ0aWt6a2ZlNjI4bHV1N2pmYjM2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="80%">
 </p>
 
 
