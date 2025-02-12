@@ -203,10 +203,6 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
   <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="80%">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEduUVL7c0RFb3Ibu/giphy.gif" width="80%">
-</p>
-
 👾 [Iniciar Modo Hacker](https://hackertyper.net/)
 🕵️‍♂️ [Desafía tu mente hacker](https://nerdlegame.com/)
 💻 [Pon a prueba tus habilidades de hacking](https://overthewire.org/wargames/bandit/)
