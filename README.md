@@ -195,16 +195,6 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=dracula)
-
-![Hacker Mode](https://img.shields.io/badge/Hacker-Mode-%2312100E?style=for-the-badge&logo=kalilinux&logoColor=white)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndresJustacaro&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2315F7F3&size=24&center=true&vCenter=true&width=600&lines=🚀+Ciberseguridad+%7C+Blockchain+%7C+Pentesting;🔥+Hack+the+Future!)](https://github.com/AndresJustacaro)
