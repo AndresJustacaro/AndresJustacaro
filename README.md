@@ -133,6 +133,15 @@ Escanea este código y descubre la verdad...
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=dracula)
+
+![Hacker Mode](https://img.shields.io/badge/Hacker-Mode-%2312100E?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
 
 ## 🌎 Conéctate conmigo  
 📌 **GitHub:** [AndresJustacaro](https://github.com/AndresJustacaro)  
