@@ -47,14 +47,6 @@ Tu IP: 192.168.1.1 | Estado: 🔓 Expuesto
 
 ![Banner](https://github.com/AndresJustacaro/AndresJustacaro/blob/main/StyleHack.png)
 
-
-## 🔐 Encrypted Reality: El Código Secreto  
-Escanea este código y descubre la verdad...  
-
-<p align="center">
-  <img src="https://github.com/AndresJustacaro/AndresJustacaro/raw/main/encrypted_reality_qr.png" width="250px">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
 </p>
@@ -89,6 +81,13 @@ Escanea este código y descubre la verdad...
 📡 Acceso restringido: 🛡️ Ingresar al protocolo
 
 💀 Solo los verdaderos saben qué hacer a continuación...
+
+## 🔐 Encrypted Reality: El Código Secreto  
+Escanea este código y descubre la verdad...  
+
+<p align="center">
+  <img src="https://github.com/AndresJustacaro/AndresJustacaro/raw/main/encrypted_reality_qr.png" width="250px">
+</p>
 
 # 💻 Andres Justacaro  
 
