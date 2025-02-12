@@ -158,7 +158,6 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
 👁️‍🗨️ Los guardianes del código te observan...
 💀 ⚠️ Accede a la Encrypted Reality 🧩🔒
 
-Este manifiesto hará que tu perfil se vea único, legendario y totalmente hacker. 🔥😎 ¿Quieres agregarle algo más o lo damos por finalizado? 🚀
 ## 🛠️  Tech Stack & Tools  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
