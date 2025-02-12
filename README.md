@@ -135,6 +135,12 @@ Escanea este código y descubre la verdad...
 </p>
 
 👾 [Iniciar Modo Hacker](https://hackertyper.net/)
+🕵️‍♂️ [Desafía tu mente hacker](https://nerdlegame.com/)
+💻 [Pon a prueba tus habilidades de hacking](https://overthewire.org/wargames/bandit/)
+
+🎮 ¿Listo para el reto?  
+🚀 **[¡Accede al Mini Juego Hacker!](https://hackertyper.net/)**  
+
 
 
 
