@@ -119,8 +119,11 @@ Escanea este código y descubre la verdad...
 Nosotros, los guardianes del código, caminamos en las sombras del ciberespacio, exploramos sistemas, desafiamos barreras y buscamos la verdad en cada línea de código. No somos delincuentes, somos arquitectos del futuro, protectores de la libertad digital.
 
 🔹 Aprendemos. Porque la ignorancia es la verdadera vulnerabilidad.
+
 🔹 Exploramos. Porque las fronteras digitales existen para ser entendidas.
+
 🔹 Protegemos. Porque la seguridad es la base de toda revolución tecnológica.
+
 🔹 Desafíamos. Porque el conformismo no lleva a la innovación.
 
 📡 Encrypted Reality no es solo un nombre. Es una visión. Es un movimiento. Es la resistencia digital.
