@@ -116,11 +116,11 @@ Escanea este código y descubre la verdad...
 
 ---
 
-#🛡️ Manifiesto Hacker: Encrypted Reality 🔥
+# 🛡️ Manifiesto Hacker: Encrypted Reality 🔥
 
     "La información quiere ser libre. La seguridad es un derecho, no un privilegio. En un mundo lleno de barreras digitales, nosotros construimos caminos."
 
-📡 ¿Quiénes somos?
+# 📡 ¿Quiénes somos?
 
 Somos los arquitectos del ciberespacio, los exploradores del código, los protectores de la privacidad. Nos movemos entre líneas de comandos y algoritmos, en la frontera entre lo desconocido y lo imposible.
 
@@ -137,7 +137,8 @@ No buscamos destruir, buscamos entender. No violamos sistemas, los fortalecemos.
 
 
 La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos, nosotros los abrimos.
-🔍 Nuestros Principios
+
+# 🔍 Nuestros Principios
 
 📜 1. Transparencia y ética. La información debe ser libre, pero protegida.
 
