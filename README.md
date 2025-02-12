@@ -89,6 +89,12 @@ Escanea este código y descubre la verdad...
   <img src="https://github.com/AndresJustacaro/AndresJustacaro/raw/main/encrypted_reality_qr.png" width="250px">
 </p>
 
+---
+🔗 **Los guardianes del código te observan...**  
+💀 [Accede a la Encrypted Reality 🧩🔒](https://hackertyper.net/)  
+
+
+
 # 💻 Andres Justacaro  
 
 ### 🚀 Programador | Analista de Ciberseguridad | Blockchain Enthusiast  
