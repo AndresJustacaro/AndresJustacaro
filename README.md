@@ -130,3 +130,8 @@ Escanea este código y descubre la verdad...
   <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="80%">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduUVL7c0RFb3Ibu/giphy.gif" width="80%">
+</p>
+
+
