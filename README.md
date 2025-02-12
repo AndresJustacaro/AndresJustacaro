@@ -26,7 +26,7 @@
 📍 **Ubicación:** 🌎 `Desconocida`  
 📡 **Intento de Acceso:** `3 Fallidos`  
 ⚠️ **Status:** `Tracking in progress...`  
-🔒 **Defensive Countermeasures: Active`**  
+🔒 **Defensive Countermeasures: Active**  
 <!-- SYSTEM INFO START -->
 🔄 Cargando datos del sistema...
 <!-- SYSTEM INFO END -->
