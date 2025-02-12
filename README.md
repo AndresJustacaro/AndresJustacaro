@@ -63,7 +63,12 @@ Escanea este código y descubre la verdad...
 + 🛡️ SISTEMA PROTEGIDO. SOLO LOS DIGNOS PUEDEN INGRESAR...  
 - 🔓 DECODIFICANDO EL FUTURO...  
 ! 🏴‍☠️ EL CONOCIMIENTO ES PODER, Y EL PODER ES LIBERTAD.
-```  
+```
+🔺 ARCHIVO CLASIFICADO - NIVEL ULTRA SECRETO 🔺
+
+```diff
++ 🚨 ADVERTENCIA: SOLO PERSONAL AUTORIZADO 🚨
+```
 
 # 💻 Andres Justacaro  
 
