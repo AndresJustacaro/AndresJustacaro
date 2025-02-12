@@ -59,6 +59,11 @@ Escanea este código y descubre la verdad...
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=🕵️+HACKING+IN+PROGRESS...;ACCESS+GRANTED+✔;WELCOME+TO+THE+SYSTEM" />
 </p>
 
++ 🛡️ SISTEMA PROTEGIDO. SOLO LOS DIGNOS PUEDEN INGRESAR...  
+- 🔓 DECODIFICANDO EL FUTURO...  
+! 🏴‍☠️ EL CONOCIMIENTO ES PODER, Y EL PODER ES LIBERTAD.  
+
+
 
 # 💻 Andres Justacaro  
 
