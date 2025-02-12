@@ -116,7 +116,7 @@ Escanea este código y descubre la verdad...
 
 ---
 
-🛡️ Manifiesto Hacker: Encrypted Reality 🔥
+#🛡️ Manifiesto Hacker: Encrypted Reality 🔥
 
     "La información quiere ser libre. La seguridad es un derecho, no un privilegio. En un mundo lleno de barreras digitales, nosotros construimos caminos."
 
@@ -158,6 +158,8 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
 👁️‍🗨️ Los guardianes del código te observan...
 💀 ⚠️ Accede a la Encrypted Reality 🧩🔒
 
+---
+
 ## 🛠️  Tech Stack & Tools  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -183,6 +185,15 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
 
 ---
 
+## 🌎 Conéctate conmigo  
+📌 **GitHub:** [AndresJustacaro](https://github.com/AndresJustacaro)  
+📌 **Twitter:** [@AndresJustacaro](https://twitter.com/AndresJustacaro)  
+📌 **LinkedIn:** [Andres Justacaro](https://www.linkedin.com/in/AndresJustacaro)  
+
+💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
@@ -192,15 +203,6 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=dracula)
 
 ![Hacker Mode](https://img.shields.io/badge/Hacker-Mode-%2312100E?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-
-
-## 🌎 Conéctate conmigo  
-📌 **GitHub:** [AndresJustacaro](https://github.com/AndresJustacaro)  
-📌 **Twitter:** [@AndresJustacaro](https://twitter.com/AndresJustacaro)  
-📌 **LinkedIn:** [Andres Justacaro](https://www.linkedin.com/in/AndresJustacaro)  
-
-💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndresJustacaro&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
