@@ -105,10 +105,14 @@ Escanea este código y descubre la verdad...
 
 ### 🚀 Programador | Analista de Ciberseguridad | Blockchain Enthusiast  
 
-🔹 **Especialidad:** Seguridad informática, pentesting y blockchain  
-🔹 **Habilidades:** Python, Bash, Nmap, Metasploit, Cosmos SDK  
+🔹 **Especialidad:** Seguridad informática, pentesting y blockchain
+
+🔹 **Habilidades:** Python, Bash, Nmap, Metasploit, Cosmos SDK 
+
 🔹 **Proyectos:** Desarrollando GhostLayer y Vortex Investments  
-🔹 **Objetivo:** Construir sistemas ultra seguros y descentralizados  
+
+🔹 **Objetivo:** Construir sistemas ultra seguros y descentralizados 
+
 
 ---
 
@@ -124,18 +128,27 @@ No buscamos destruir, buscamos entender. No violamos sistemas, los fortalecemos.
 🏴‍☠️ Nuestro Código
 
 🔹 Conocimiento es poder. Aprendemos, investigamos, evolucionamos.
+
 🔹 El código es arte. Escribimos, optimizamos, creamos soluciones.
+
 🔹 La seguridad es una responsabilidad. Protegemos lo que otros ignoran.
+
 🔹 No hay límites, solo desafíos. Cada problema tiene una solución, y nosotros la encontramos.
+
 
 La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos, nosotros los abrimos.
 🔍 Nuestros Principios
 
 📜 1. Transparencia y ética. La información debe ser libre, pero protegida.
+
 ⚡ 2. Seguridad por diseño. Un sistema seguro no se impone, se construye desde el inicio.
+
 🔑 3. Privacidad como un derecho. En un mundo de vigilancia, la encriptación es nuestra voz.
+
 🕵️‍♂️ 4. Investigación sin límites. La curiosidad nos mueve, el conocimiento nos libera.
+
 🧠 5. Aprender, compartir, evolucionar. Lo que descubrimos no se guarda, se multiplica.
+
 🔗 Encrypted Reality: La Resistencia Digital
 
 🌎 No somos simples usuarios, somos los guardianes del código.
