@@ -134,4 +134,7 @@ Escanea este código y descubre la verdad...
   <img src="https://media.giphy.com/media/3oEduUVL7c0RFb3Ibu/giphy.gif" width="80%">
 </p>
 
+👾 [Iniciar Modo Hacker](https://hackertyper.net/)
+
+
 
