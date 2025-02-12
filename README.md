@@ -22,8 +22,14 @@
 </p>
 
 
-  🚨 INTRUSIÓN DETECTADA: ACTIVANDO PROTOCOLO 🔥
-  ACCESO DENEGADO: 🚫 IP BLOQUEADA
+ 🚨 **ALERTA: INTRUSO DETECTADO** 🚨  
+📍 **Ubicación:** 🌎 `Desconocida`  
+📡 **Intento de Acceso:** `3 Fallidos`  
+⚠️ **Status:** `Tracking in progress...`  
+🔒 **Defensive Countermeasures: Active`**  
+<!-- SYSTEM INFO START -->
+🔄 Cargando datos del sistema...
+<!-- SYSTEM INFO END -->
 
 
 ```css
@@ -149,15 +155,6 @@ Escanea este código y descubre la verdad...
 📌 **LinkedIn:** [Andres Justacaro](https://www.linkedin.com/in/AndresJustacaro)  
 
 💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
-
-🚨 **ALERTA: INTRUSO DETECTADO** 🚨  
-📍 **Ubicación:** 🌎 `Desconocida`  
-📡 **Intento de Acceso:** `3 Fallidos`  
-⚠️ **Status:** `Tracking in progress...`  
-🔒 **Defensive Countermeasures: Active`**  
-<!-- SYSTEM INFO START -->
-🔄 Cargando datos del sistema...
-<!-- SYSTEM INFO END -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndresJustacaro&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
