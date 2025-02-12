@@ -126,3 +126,7 @@ Escanea este código y descubre la verdad...
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2315F7F3&size=24&center=true&vCenter=true&width=600&lines=🚀+Ciberseguridad+%7C+Blockchain+%7C+Pentesting;🔥+Hack+the+Future!)](https://github.com/AndresJustacaro)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="80%">
+</p>
+
