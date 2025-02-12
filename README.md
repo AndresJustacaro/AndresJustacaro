@@ -131,11 +131,6 @@ Escanea este código y descubre la verdad...
 
 ---
 
-![AndresJustacaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresJustacaro&show_icons=true&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndresJustacaro&theme=react-dark)
-
-
-
 ## 🌎 Conéctate conmigo  
 📌 **GitHub:** [AndresJustacaro](https://github.com/AndresJustacaro)  
 📌 **Twitter:** [@AndresJustacaro](https://twitter.com/AndresJustacaro)  
