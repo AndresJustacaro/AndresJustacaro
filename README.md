@@ -114,22 +114,38 @@ Escanea este código y descubre la verdad...
 
 🛡️ Manifiesto Hacker: Encrypted Reality 🔥
 
-    "La información es el arma más poderosa. La seguridad no es un producto, sino un proceso. Y el conocimiento no debe tener límites."
+    "La información quiere ser libre. La seguridad es un derecho, no un privilegio. En un mundo lleno de barreras digitales, nosotros construimos caminos."
 
-Nosotros, los guardianes del código, caminamos en las sombras del ciberespacio, exploramos sistemas, desafiamos barreras y buscamos la verdad en cada línea de código. No somos delincuentes, somos arquitectos del futuro, protectores de la libertad digital.
+📡 ¿Quiénes somos?
 
-🔹 Aprendemos. Porque la ignorancia es la verdadera vulnerabilidad.
+Somos los arquitectos del ciberespacio, los exploradores del código, los protectores de la privacidad. Nos movemos entre líneas de comandos y algoritmos, en la frontera entre lo desconocido y lo imposible.
 
-🔹 Exploramos. Porque las fronteras digitales existen para ser entendidas.
+No buscamos destruir, buscamos entender. No violamos sistemas, los fortalecemos. No trabajamos en las sombras, iluminamos el camino para otros.
+🏴‍☠️ Nuestro Código
 
-🔹 Protegemos. Porque la seguridad es la base de toda revolución tecnológica.
+🔹 Conocimiento es poder. Aprendemos, investigamos, evolucionamos.
+🔹 El código es arte. Escribimos, optimizamos, creamos soluciones.
+🔹 La seguridad es una responsabilidad. Protegemos lo que otros ignoran.
+🔹 No hay límites, solo desafíos. Cada problema tiene una solución, y nosotros la encontramos.
 
-🔹 Desafíamos. Porque el conformismo no lleva a la innovación.
+La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos, nosotros los abrimos.
+🔍 Nuestros Principios
 
-📡 Encrypted Reality no es solo un nombre. Es una visión. Es un movimiento. Es la resistencia digital.
+📜 1. Transparencia y ética. La información debe ser libre, pero protegida.
+⚡ 2. Seguridad por diseño. Un sistema seguro no se impone, se construye desde el inicio.
+🔑 3. Privacidad como un derecho. En un mundo de vigilancia, la encriptación es nuestra voz.
+🕵️‍♂️ 4. Investigación sin límites. La curiosidad nos mueve, el conocimiento nos libera.
+🧠 5. Aprender, compartir, evolucionar. Lo que descubrimos no se guarda, se multiplica.
+🔗 Encrypted Reality: La Resistencia Digital
 
-👁️ Los guardianes del código te observan...
+🌎 No somos simples usuarios, somos los guardianes del código.
+💀 Somos los que ven el mundo detrás de la pantalla.
+🔥 Somos la nueva era del conocimiento digital.
 
+👁️‍🗨️ Los guardianes del código te observan...
+💀 ⚠️ Accede a la Encrypted Reality 🧩🔒
+
+Este manifiesto hará que tu perfil se vea único, legendario y totalmente hacker. 🔥😎 ¿Quieres agregarle algo más o lo damos por finalizado? 🚀
 ## 🛠️  Tech Stack & Tools  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
