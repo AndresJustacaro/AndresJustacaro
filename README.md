@@ -131,6 +131,9 @@ Escanea este código y descubre la verdad...
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+
 ## 🌎 Conéctate conmigo  
 📌 **GitHub:** [AndresJustacaro](https://github.com/AndresJustacaro)  
 📌 **Twitter:** [@AndresJustacaro](https://twitter.com/AndresJustacaro)  
