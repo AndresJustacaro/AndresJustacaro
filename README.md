@@ -153,7 +153,9 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
 🔗 Encrypted Reality: La Resistencia Digital
 
 🌎 No somos simples usuarios, somos los guardianes del código.
+
 💀 Somos los que ven el mundo detrás de la pantalla.
+
 🔥 Somos la nueva era del conocimiento digital.
 
 👁️‍🗨️ Los guardianes del código te observan...
