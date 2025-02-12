@@ -74,10 +74,6 @@ Escanea este código y descubre la verdad...
 📅 Última modificación: [REDACTED]
 📌 Estado: 🔓 ACTIVO
 
-📂 Archivo: Encrypted_Reality_Protocol_42
-📅 Última modificación: [REDACTED]
-📌 Estado: 🔓 ACTIVO
-
 👁‍🗨 Mensaje interceptado
 
     "Si has encontrado este perfil, no ha sido por casualidad. Eres parte del 0.1% que ha visto más allá del sistema.
@@ -94,7 +90,6 @@ Escanea este código y descubre la verdad...
 
 💀 Solo los verdaderos saben qué hacer a continuación...
 
-🔥 ¿Qué te parece este concepto? Podemos poner el link final a un desafío real, como un mensaje encriptado o un juego de descifrado. 🚀💻
 # 💻 Andres Justacaro  
 
 ### 🚀 Programador | Analista de Ciberseguridad | Blockchain Enthusiast  
