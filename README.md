@@ -190,10 +190,14 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
 
 ---
 
-## 🌎 Conéctate conmigo  
-📌 **GitHub:** [AndresJustacaro](https://github.com/AndresJustacaro)  
-📌 **Twitter:** [@AndresJustacaro](https://twitter.com/AndresJustacaro)  
-📌 **LinkedIn:** [Andres Justacaro](https://www.linkedin.com/in/AndresJustacaro)  
+## 🌍 Conéctate conmigo  
+
+<a href="https://facebook.com/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href="https://instagram.com/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+<a href="https://linkedin.com/in/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://open.spotify.com/user/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/spotify.png"/></a>
+ 
 
 💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
 
