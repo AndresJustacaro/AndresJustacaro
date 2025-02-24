@@ -190,13 +190,14 @@ La ignorancia es la vulnerabilidad más grande. Mientras otros cierran los ojos,
 
 ---
 
-## 🌍 Conéctate conmigo  
+## 📲 Sígueme en mis redes sociales
 
-<a href="https://facebook.com/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href="https://instagram.com/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-<a href="https://linkedin.com/in/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://open.spotify.com/user/tu_usuario" target="_blank"><img src="https://img.icons8.com/color/48/000000/spotify.png"/></a>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu_usuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu_usuario)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tu_usuario)
+
  
 
 💡 _Siempre explorando nuevas formas de proteger la web y descentralizar el futuro._  
