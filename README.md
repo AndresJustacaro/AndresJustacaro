@@ -2,7 +2,7 @@
 ![Blockchain Dev](https://img.shields.io/badge/-Blockchain-4B0082?style=for-the-badge&logo=ethereum)
 
 ## 🎵 Escucha mi podcast en Spotify
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/andresjustacaro)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4Uspy2wm7bKa3doevYHXR0?si=f09878b43b82481b)
 
 
 ```bash
