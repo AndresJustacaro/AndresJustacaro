@@ -1,6 +1,8 @@
 ![Hacker](https://img.shields.io/badge/-Hacker-000?style=for-the-badge&logo=linux)
 ![Blockchain Dev](https://img.shields.io/badge/-Blockchain-4B0082?style=for-the-badge&logo=ethereum)
 
+## 🎵 Escucha mi podcast en Spotify
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/andresjustacaro)
 
 
 ```bash
